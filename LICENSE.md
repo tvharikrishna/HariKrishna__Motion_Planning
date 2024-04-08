@@ -26,7 +26,7 @@
   <tr>
     <td>✅</td>
     <td><strong>Code</strong></td>
-    <td>Apache-2.0 License</td>
+    <td>Apache-2.0</td>
     <td>Use, modify, and share as per its terms.</td>
   </tr>
   <tr>
