@@ -55,8 +55,6 @@ Project Vision focuses on the strategic integration of PID controllers to harnes
 <p align="center"><h1>🪓Project Implementation</h1></p>
 <p><h2>💠 Software Design & Tools </h2></p>
 <p align='justify'>
-The PID controller is crafted using ROS on Ubuntu and Linux, with Python for scripting. Gazebo simulates autonomous behaviors, while RViz visualizes paths and waypoints, using ROS markers for clear data interpretation. The combination of Numpy, SciPy, and VS Code supports a streamlined framework for autonomous vehicle design and analysis.
-    
 <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=black" alt="Linux" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 25px;"/> &nbsp;
