@@ -5,7 +5,6 @@
     <img src="readme_data/mp_welcome.png" alt="motion planning welcome image" width="1500"/>
 </p> <br>
 
-<h1 align="left">🔻 Repository Details</h1>
 <table align="center">
 <thead>
 <tr>
