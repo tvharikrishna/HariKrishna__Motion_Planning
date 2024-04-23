@@ -1,5 +1,9 @@
 <p align="right">© Documentation by tvharikrishna</p>
-<p align="right">1 minute read 📚</p>
+<p align="right">1 minute read 📚</p> <br>
+
+<p align="center">
+    <img src="readme_data/mp_welcome.png" alt="motion planning welcome image" width="1500"/>
+</p>
 
 <h1 align="left">🔻 Repository Details</h1>
 <table align="center">
