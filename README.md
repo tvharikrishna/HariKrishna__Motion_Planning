@@ -1,8 +1,6 @@
-<!-- README: HariKrishna_Motion_Planning-->
 <p align="right">© Documentation by tvharikrishna</p>
 <p align="right">1 minute read 📚</p>
 
-<!-- Repo Details -->
 <h1 align="left">🔻 Repository Details</h1>
 <table align="center">
 <thead>
@@ -48,13 +46,11 @@ This repository consists of a collection of motion planning algorithms, encompas
 </p>
 
 # 🔻 Framework & Tools
-
 <img src="https://img.shields.io/badge/ROS%201-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS 1" style="height: 30px;"/> &nbsp;
 <img src="https://img.shields.io/badge/ROS%202-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS 2" style="height: 30px;"/> &nbsp;
 <img src="https://img.shields.io/badge/Gazebo-007ACC.svg?&style=flat-square&logo=ros&logoColor=white" alt="Gazebo" style="height: 30px;"/> &nbsp;
 <img src="https://img.shields.io/badge/NVIDIA%20Isaac-76B900.svg?&style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Isaac SIM" style="height: 30px;"/> &nbsp;
-
-<hr> 
+<hr> <br> <br> <br> 
 
 <p align="center">
     <img src="readme_data/hk_quote.png" alt="Inspiring quote related to computer vision and robotics" width="1500"/>
