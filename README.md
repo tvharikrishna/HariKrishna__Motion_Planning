@@ -2,6 +2,27 @@
 <p align="right">© Documentation by tvharikrishna</p>
 <p align="right">1 minute read 📚</p>
 
+<!-- Repo Details -->
+<h1 align="left">🔻 Repository Details</h1>
+<table align="center">
+<thead>
+<tr>
+<th align="center">Naming Prefix</th>
+<th align="center">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><strong>HKPP</strong></td>
+<td align="center">Path Planning Projects</td>
+</tr>
+<tr>
+<td align="center"><strong>HKMC</strong></td>
+<td align="center">Motion Control Algorithms</td>
+</tr>
+</tbody>
+</table>
+
 # 🔻 What is Motion Planning Pipeline?
 <p align='justify'>
 Motion planning is a key concept in autonomous systems, enabling robots and autonomous vehicles to determine how to achieve a desired state or task in an environment filled with obstacles. It encompasses the stages of path planning and motion control algorithms. Together, these components form the motion planning pipeline, which is critical for the autonomy of robotic systems.
@@ -25,27 +46,6 @@ Motion planning is a key concept in autonomous systems, enabling robots and auto
 <p align='justify'>
 This repository consists of a collection of motion planning algorithms, encompassing both path planning and motion control algorithms. These algorithms are demonstrated across a wide variety of simulators, mainly including Nvidia Isaac, Gazebo, Carla simulator, and MATLAB, catering to diverse scenarios in robotics and autonomous systems. The sub-repositories follow the naming conventions outlined below, facilitating easy navigation and understanding of the repository's structure.
 </p>
-
-<!-- Repo Details -->
-<h1 align="left">🔻 Repository Details</h1>
-<table align="center">
-<thead>
-<tr>
-<th align="center">Naming Prefix</th>
-<th align="center">Description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><strong>HKPP</strong></td>
-<td align="center">Path Planning Projects</td>
-</tr>
-<tr>
-<td align="center"><strong>HKMC</strong></td>
-<td align="center">Motion Control Algorithms</td>
-</tr>
-</tbody>
-</table>
 
 # 🔻 Framework & Tools
 
