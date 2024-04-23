@@ -15,12 +15,12 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><strong>HKPP</strong></td>
-<td align="center">Path Planning Projects</td>
+<td align="left"><strong>HKPP</strong></td>
+<td align="right">Path Planning Algorithms</td>
 </tr>
 <tr>
-<td align="center"><strong>HKMC</strong></td>
-<td align="center">Motion Control Algorithms</td>
+<td align="left"><strong>HKMC</strong></td>
+<td align="right">Motion Control Algorithms</td>
 </tr>
 </tbody>
 </table>
@@ -46,7 +46,7 @@ Motion planning is a key concept in autonomous systems, enabling robots and auto
 
 # 🔻 Repository Details
 <p align='justify'>
-This repository consists of a collection of motion planning algorithms, encompassing both path planning and motion control algorithms. These algorithms are demonstrated across a wide variety of simulators, mainly including Nvidia Isaac, Gazebo, Carla simulator, and MATLAB, catering to diverse scenarios in robotics and autonomous systems. The sub-repositories follow the naming conventions outlined below, facilitating easy navigation and understanding of the repository's structure.
+This repository comprises a collection of motion planning algorithms, covering both path planning and motion control algorithms. These algorithms are demonstrated across a wide variety of simulators, primarily including 2D grid animations for path planning algorithms and motion control for Nvidia Isaac and Gazebo.
 </p>
 
 # 🔻 Framework & Tools
