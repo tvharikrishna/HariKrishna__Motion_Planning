@@ -50,6 +50,7 @@ This repository consists of a collection of motion planning algorithms, encompas
 </p>
 
 # 🔻 Framework & Tools
+<img src="https://img.shields.io/badge/Grid_Animations-FF0000.svg?&style=flat-square&logo=hetzner&logoColor=white" alt="Grid Animations" style="height: 30px;"/> &nbsp;
 <img src="https://img.shields.io/badge/ROS%201-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS 1" style="height: 30px;"/> &nbsp;
 <img src="https://img.shields.io/badge/ROS%202-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS 2" style="height: 30px;"/> &nbsp;
 <img src="https://img.shields.io/badge/Gazebo-007ACC.svg?&style=flat-square&logo=ros&logoColor=white" alt="Gazebo" style="height: 30px;"/> &nbsp;
