@@ -31,8 +31,7 @@ This repository comprises a collection of motion planning algorithms, covering b
 
 # 🔻 What is Motion Planning Pipeline?
 <p align='justify'>
-Motion planning is a key concept in autonomous systems, enabling robots and autonomous vehicles to determine how to achieve a desired state or task in an environment filled with obstacles. It encompasses the stages of path planning and motion control algorithms. Together, these components form the motion planning pipeline, which is critical for the autonomy of robotic systems.
-</p>
+Motion planning is a key concept in autonomous systems, enabling robots and autonomous vehicles to determine how to achieve a desired state or task in an environment filled with obstacles. It encompasses the stages of path planning and motion control algorithms. Together, these components form the motion planning pipeline, which is critical for the autonomy of robotic systems. </p>
 
 # 🔻 What are Path Planning Algorithms?
 <p align='justify'>
