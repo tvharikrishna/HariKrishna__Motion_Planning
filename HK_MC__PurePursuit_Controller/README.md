@@ -60,8 +60,6 @@ Project Vision focuses on leveraging the Pure Pursuit algorithm to achieve preci
 <p align="center"><h1>🪓Project Implementation</h1></p>
 <p><h2>💠 Software Design & Tools </h2></p>
 <p align='justify'>
-The Pure Pursuit project utilizes ROS and operates on Ubuntu/Linux systems. It's driven by Python scripts in the Gazebo environment. Waypoints are loaded using pandas and visualized with an ROS marker array for clear tracking. This setup, along with VS Code for development, provides a robust framework for testing and refining algorithms in autonomous vehicles and mobile robotics.
-
 <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=black" alt="Linux" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 25px;"/> &nbsp;
