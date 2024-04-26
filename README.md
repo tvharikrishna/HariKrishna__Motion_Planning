@@ -19,11 +19,11 @@ This repository comprises a collection of motion planning algorithms, covering b
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>HK_PP__</strong></td>
+<td align="left"><strong>HKPP__</strong></td>
 <td align="right">Path Planning Algorithms</td>
 </tr>
 <tr>
-<td align="left"><strong>HK_MC__</strong></td>
+<td align="left"><strong>HKMC__</strong></td>
 <td align="right">Motion Control Algorithms</td>
 </tr>
 </tbody>
