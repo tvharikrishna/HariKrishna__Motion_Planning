@@ -4,56 +4,45 @@
 
 <!------ PROJECT TITLE ------>
 <p align="center">
-    <img src="readme_data/title.png" alt="Why we chose this project" width="1500"/>
+    <img src="readme_data/title.png" alt="title" width="1500"/>
 </p> <br> <br>
 
 <!------ WHAT ------>
 <p align="center">
-    <img src="readme_data/what.png" alt="Why we chose this project" width="600"/>
+    <img src="readme_data/what.png" alt="what" width="600"/>
 </p>
 
 <p align="center"><h1>🎀 Essence of the Project</h1></p>
 <p align='justify'>
-▸ A <strong>Proportional-Integral-Derivative (PID) Controller</strong> is a fundamental feedback loop mechanism widely utilized in control systems for motion planning. Its versatility allows it to be applied in numerous robotics and autonomous systems to achieve precise and stable movement. At the heart of this project lies the implementation of a PID Controller, designed to manage the dynamic response of an autonomous vehicle as it follows a designated path. The PID Controller adjusts the vehicle's steering based on real-time feedback to minimize the deviation. </p>
-<p align='justify'>
-▸ This precise control is essential across various applications, from manufacturing robots that require exact movement patterns to maintain efficiency, to self-driving cars that need to navigate complex environments while adjusting to 
-changing conditions. The project showcases how PID control can be tuned to optimize performance, reflecting its critical role in enhancing the reliability and accuracy of automated systems. </p>
+At the core of this project is the implementation of a <strong>Proportional-Integral-Derivative (PID) Controller</strong>, a fundamental feedback mechanism critical in control systems for precise and stable motion planning. Designed for an autonomous systems, the PID Controller manages dynamic responses as the vehicle follows a designated path, adjusting steering based on real-time feedback to minimize deviation. This control is vital in various applications, from manufacturing robots requiring precise movement patterns to self-driving cars navigating complex environments.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/posts/tvharikrishnahk_autonomousdriving-selfdrivingcars-pidcontroller-activity-7117165597116743680-jC2Q?utm_source=share&utm_medium=member_desktop">
     <img src="https://img.shields.io/badge/My Project Video-PID Motion Controller-blue" alt="Video" width="337" height="30"/>
   </a>
-</p> <br> <br>
+</p> <hr> <br> <br>
 
 <!------ WHY ------>
 <p align="center">
-    <img src="readme_data/why.png" alt="What the project accomplishes" width="600"/>
+    <img src="readme_data/why.png" alt="why" width="600"/>
 </p>
 
 <p align="center"><h1>🎯 Project Vision</h1></p>
 <p style="text-align: justify;">
-Project Vision focuses on the strategic integration of PID controllers to harness their unparalleled precision and adaptability in controlling complex systems. Below are the key advantages of employing PID controllers in autonomous systems:
-    
-▸ <code>Precision Engineering:</code> Essential for autonomous systems, PID controllers ensure precise navigation and positioning, reducing errors and enhancing accuracy in unpredictable environments.
-
-▸ <code>Dynamic Stability:</code> They provide stability in rapidly changing conditions, essential for autonomous vehicles to adapt to sudden obstacles or shifts in terrain, ensuring safe and reliable operation.
-
-▸ <code>Adaptive Flexibility:</code> With adaptable control parameters, PID controllers can be fine-tuned for various autonomous applications, from urban driving to off-road exploration, offering versatile performance.
-
-▸ <code>Operational Efficiency:</code> By optimizing system responses, PID controllers contribute to energy-efficient operation of autonomous vehicles, crucial for extending battery life and reducing environmental impact.
-
-▸ <code>Design Simplicity:</code> Their straightforward implementation makes PID controllers an accessible technology for enhancing the control systems of autonomous vehicles, even with limited engineering resources.
-
-▸ <code>Universal Application:</code> The wide applicability of PID controllers supports diverse functionalities in autonomous systems, from speed control to obstacle avoidance, proving their essential role in the future of transportation.
-</p> <br> <br>
+The project vision for employing Proportional-Integral-Derivative (PID) controllers in autonomous systems is to enhance control precision in dynamic operational environments. The goal is to utilize the refined control capabilities of PID technology to ensure high accuracy and adaptability in response to environmental changes and system demands. This initiative seeks to demonstrate the critical role of PID controllers in improving the operational efficiency and reliability of complex, automated systems.
+</p> <hr> <br> <br>
 
 <!------ HOW ------>
 <p align="center">
-    <img src="readme_data/how.png" alt="How we implemented the project" width="600"/>
+    <img src="readme_data/how.png" alt="How" width="600"/>
 </p>
 
 <p align="center"><h1>🪓Project Implementation</h1></p>
 <p><h2>💠 Software Design & Tools </h2></p>
+<p align='justify'>
+This project utilizes a robust set of tools: Ubuntu and Linux for system stability, Python for scripting, ROS for robotics programming, Gazebo and RViz for simulation and visualization, and Numpy, SciPy, and Pandas for further data analysis of waypoints.
+</p>
 <p align='justify'>
 <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=black" alt="Linux" style="height: 25px;"/> &nbsp;
@@ -67,7 +56,6 @@ Project Vision focuses on the strategic integration of PID controllers to harnes
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" style="height: 25px;"/> &nbsp;
 </p> <br>
 
-<!------ Working of PID Controllers ------>
 <p align="center"><h2>💠 Working of PID Controllers </h2></p>
 <p align='justify'>
 The PID (Proportional-Integral-Derivative) controller is a control loop feedback mechanism widely used in industrial control systems. It adjusts the output to bring a process to its desired setpoint or target. Here’s a brief explanation of how each component works:
@@ -95,7 +83,6 @@ The derivative term predicts system behavior and thus can provide a damping effe
 The PID controller works by calculating an 'error value' as the difference between a measured process variable and a desired setpoint. The controller attempts to minimize the error by adjusting the process control inputs. The combination of these three terms provides control action designed to eliminate the error by adjusting process control variables such as the throttle, the steering angle, or the valve position in a system.
 </p> <br>
 
-<!------ Implementation of PID Controller ------>
 <p align="center"><h2>💠 Implementation of PID Steering Control </h2></p>
 
 <p align="center">
@@ -132,17 +119,30 @@ Adjust the robot's throttle or drive commands based on the control output to ali
 
 <h3>10. Steer the Robot</h3>
 Finally, use the computed control inputs to steer the robot along the path. Monitor the robot's progress and continuously adjust the control signals to maintain a smooth and accurate trajectory.
-</p>
+</p>  <br>
 
-<!------ Why to tune PID ------>
 <p align="center"><h2>💠 Why Do We Need to Tune a PID Controller</h2></p>
 <p align='justify'>
 ▸ Tuning a PID controller is an essential step in any control system that employs feedback. Proper tuning ensures that the system responds to setpoint changes and disturbances rapidly and with minimal overshoot. Untuned or poorly tuned PID controllers can lead to inefficient operation, instability, excessive oscillation, or slow response times, all of which can affect the performance and safety of the controlled system. Effective tuning optimizes the control actions of the PID controller, ensuring it works in harmony with the dynamics of the process it is controlling.
     
 ▸ It is a delicate balance: the proportional term must be high enough to respond to changes, the integral term must correct any offset without causing instability, and the derivative term must predict and smooth the response. Without tuning, the controller cannot fulfill its role of maintaining the desired level of process control.
-</p>
+</p>  <br>
 
-<!------ why to tune PID ------>
+<p align="center"><h2>💠 Advantages of PID Controller</h2></p>
+<p align='justify'>
+▸ <code>Precision Engineering:</code> Essential for autonomous systems, PID controllers ensure precise navigation and positioning, reducing errors and enhancing accuracy in unpredictable environments.
+    
+▸ <code>Dynamic Stability:</code> They provide stability in rapidly changing conditions, essential for autonomous vehicles to adapt to sudden obstacles or shifts in terrain, ensuring safe and reliable operation.
+
+▸ <code>Adaptive Flexibility:</code> With adaptable control parameters, PID controllers can be fine-tuned for various autonomous applications, from urban driving to off-road exploration, offering versatile performance.
+
+▸ <code>Operational Efficiency:</code> By optimizing system responses, PID controllers contribute to energy-efficient operation of autonomous vehicles, crucial for extending battery life and reducing environmental impact.
+
+▸ <code>Design Simplicity:</code> Their straightforward implementation makes PID controllers an accessible technology for enhancing the control systems of autonomous vehicles, even with limited engineering resources.
+
+▸ <code>Universal Application:</code> The wide applicability of PID controllers supports diverse functionalities in autonomous systems, from speed control to obstacle avoidance, proving their essential role in the future of transportation.
+</p>  <br>
+
 <p align="center"><h2>💠 PID Tuning Methods</h2></p>
 <p align='justify'>
 ▸ Manual Tuning
@@ -155,7 +155,7 @@ Finally, use the computed control inputs to steer the robot along the path. Moni
 
 ▸ Kappa-Tau Tuning Method
 
-For a deeper understanding and guidance on PID tuning, consider visiting [PID Tuning Methods](https://www.incatools.com/pid-tuning/pid-tuning-methods/). This resource provides insights and practical advice on how to apply these methods to achieve a well-tuned control system. </p> <hr> <br>
+For a deeper understanding and guidance on PID tuning, consider visiting [PID Tuning Methods](https://www.incatools.com/pid-tuning/pid-tuning-methods/). This resource provides insights and practical advice on how to apply these methods to achieve a well-tuned control system. </p> <hr> <br>  <br>
 
 <!------ End Image ------>
 <p align="center">
