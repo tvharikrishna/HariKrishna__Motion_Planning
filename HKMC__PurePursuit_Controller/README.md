@@ -128,7 +128,7 @@ The accompanying images serve as a detailed guide to the Pure Pursuit controller
 ▸ The Binary Search Tree (BST) algorithm significantly enhances the efficiency of waypoint look-ahead, allowing for rapid searches and updates. This is crucial for autonomous navigation where high accuracy is essential.
 
 ▸ Binary Search Tree (BST) algorithm structured approach is ideal for handling densely packed or frequently updated waypoints, ensuring minimal delay in target point identification. Its application in the Pure Pursuit controller demonstrates exceptional performance, underlining its value in optimizing guidance for autonomous vehicles.
-</p> <hr> <br>
+</p> <hr> <br> <br>
 
 <!------ End Image ------>
 <p align="center">
