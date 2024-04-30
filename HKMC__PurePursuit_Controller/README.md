@@ -109,7 +109,7 @@ The accompanying images serve as a detailed guide to the Pure Pursuit controller
 
 <p align="center"><h2>💠 Advantages of Pure Pursuit Controller</h2></p>
 <p align='justify'>
-▸ <code> Simplicity:</code> The algorithm's inherent simplicity belies its sophisticated underpinnings, making it an ideal candidate for integration into autonomous navigational systems where clarity of design is paramount for reliability and maintainability.
+▸ <code>Simplicity:</code> The algorithm's inherent simplicity belies its sophisticated underpinnings, making it an ideal candidate for integration into autonomous navigational systems where clarity of design is paramount for reliability and maintainability.
 
 ▸ <code>Reactivity:</code> Its reactive nature allows for robust adaptability to environmental variations and dynamic obstacles, a critical feature for autonomous systems in variable terrains and unpredictable urban landscapes.
 
