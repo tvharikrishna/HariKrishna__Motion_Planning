@@ -14,7 +14,7 @@ At the core of this project is the implementation of a <strong>Proportional-Inte
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=qgokbl5nwjg&t=1s">
+  <a href="https://www.youtube.com/watch?v=gFnzpni89qY">
     <img src="https://img.shields.io/badge/My Project Video-PID Motion Controller-blue" alt="Video" width="380" height="36"/>
   </a>
 </p> <hr> <br> <br>
