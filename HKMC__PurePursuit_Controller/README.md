@@ -1,10 +1,6 @@
-<!------ Copyrights ------>
-<p align="right">© 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗯𝘆 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮</p>
-<p align="right">5 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚 </p> <br>
-
 <!------ PROJECT TITLE ------>
 <p align="center">
-    <img src="readme_data/title.png" alt="title" width="1500"/>
+    <img src="readme_data/project_title.png" alt="title" width="1500"/>
 </p> <br> <br>
 
 <!------ WHAT ------>
@@ -18,7 +14,7 @@ The Pure Pursuit Controller, a Path Tracking Algorithm, is frequently used in ro
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7123386910160420864?utm_source=share&utm_medium=member_desktop">
+  <a href="https://www.youtube.com/watch?v=qgokbl5nwjg&t=1s">
     <img src="https://img.shields.io/badge/My Project Video-Pure Pursuit Controller-blue" alt="Video" width="370" height="35"/>
   </a>
 </p> <hr> <br> <br>
@@ -54,6 +50,44 @@ This project utilizes a robust set of tools: Ubuntu and Linux for system stabili
 <img src="https://img.shields.io/badge/SciPy-654FF0?style=flat-square&logo=SciPy&logoColor=white" alt="SciPy" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat-square&logo=pandas&logoColor=white" alt="Pandas" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" style="height: 25px;"/> &nbsp;
+</p> <br>
+
+<!------ Technical Terms ------>
+<p align="center"><h2>💠 Project Technical Terms & Concepts </h2></p>
+<p align="center"><h3>▸ What are path tracking algorithms?</h3></p>
+<p style="text-align: justify;">
+Path tracking algorithms are a set of computational techniques used in autonomous vehicle systems to determine and follow a defined path from one point to another. These algorithms calculate the best trajectory for a vehicle to travel, ensuring it remains on course while adjusting to any changes or obstacles in the environment.
+</p> <br>
+
+<p align="center"><h3>▸ What is look ahead point in pure pursuit controller?</h3></p>
+<p style="text-align: justify;">
+In the Pure Pursuit controller, the look ahead point is a future point on the path that the vehicle aims to follow. It is dynamically calculated based on the current position and orientation of the vehicle, helping guide the steering direction to smoothly navigate the path.
+</p> <br>
+
+<p align="center"><h3>▸ What is look ahead distance in pure pursuit controller?</h3></p>
+<p style="text-align: justify;">
+Look ahead distance in the Pure Pursuit controller refers to the fixed or variable distance ahead of the current position of the vehicle at which the look ahead point is set. This distance is crucial as it influences the responsiveness and curvature of the vehicle's path, affecting how sharply the vehicle can turn and adapt to the path.
+</p> <br>
+
+<p align="center"><h3>▸ Is look ahead that important?</h3></p>
+<p style="text-align: justify;">
+Yes, look ahead is extremely important in path tracking algorithms like the Pure Pursuit controller. It directly impacts the smoothness and accuracy of the path tracking, particularly in how the vehicle anticipates and responds to curves and changes in the path, thus enhancing overall navigation safety and efficiency.
+</p> <br>
+
+<p align="center"><h3>▸ How to perform Pure Pursuit faster?</h3></p>
+<p style="text-align: justify;">
+To perform Pure Pursuit faster, consider using efficient data structures like Binary Search Trees (BST) or employing advanced searching algorithms for quicker waypoint look-up. These techniques can significantly reduce the computational overhead and enhance the response time of the path tracking process.
+</p> <br>
+
+<p align="center"><h3>▸ Advantages of Pure Pursuit Controller</h3></p>
+<p align='justify'>
+<ol>
+<li>Simplicity: The algorithm's inherent simplicity belies its sophisticated underpinnings, making it an ideal candidate for integration into autonomous navigational systems where clarity of design is paramount for reliability and maintainability.</li>
+<li>Reactivity: Its reactive nature allows for robust adaptability to environmental variations and dynamic obstacles, a critical feature for autonomous systems in variable terrains and unpredictable urban landscapes.</li>
+<li>Smoothness: Pure Pursuit's circular arc-based path generation ensures kinematic consistency, delivering smooth motion profiles that are essential for the operational integrity of high-speed autonomous vehicles and sensitive robotic equipment.</li>
+<li>Versatility: The algorithm's modular design facilitates seamless integration with various vehicular architectures, from differential drive robots to Ackermann steering models, proving its versatility across multiple robotic platforms.</li>
+<li>Predictability: The deterministic nature of the Pure Pursuit controller provides a predictable control scheme, crucial for ensuring the safety and reliability of autonomous systems in regulated environments such as automated manufacturing and urban transport.</li>
+</ol>
 </p> <br>
 
 <!------ Deployment and Testing ------>
@@ -104,20 +138,6 @@ The accompanying images serve as a detailed guide to the Pure Pursuit controller
 
 <p align="center">
   <img src="readme_data/project_obs_11.png" alt="Observation Image" width="1500"/>
-</p> <br>
-
-
-<p align="center"><h2>💠 Advantages of Pure Pursuit Controller</h2></p>
-<p align='justify'>
-▸ <code>Simplicity:</code> The algorithm's inherent simplicity belies its sophisticated underpinnings, making it an ideal candidate for integration into autonomous navigational systems where clarity of design is paramount for reliability and maintainability.
-
-▸ <code>Reactivity:</code> Its reactive nature allows for robust adaptability to environmental variations and dynamic obstacles, a critical feature for autonomous systems in variable terrains and unpredictable urban landscapes.
-
-▸ <code>Smoothness:</code> Pure Pursuit's circular arc-based path generation ensures kinematic consistency, delivering smooth motion profiles that are essential for the operational integrity of high-speed autonomous vehicles and sensitive robotic equipment.
-
-▸ <code>Versatility:</code> The algorithm's modular design facilitates seamless integration with various vehicular architectures, from differential drive robots to Ackermann steering models, proving its versatility across multiple robotic platforms.
-
-▸ <code>Predictability:</code> The deterministic nature of the Pure Pursuit controller provides a predictable control scheme, crucial for ensuring the safety and reliability of autonomous systems in regulated environments such as automated manufacturing and urban transport.
 </p> <br>
 
 <!------ Result and Analysis ------>

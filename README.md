@@ -1,9 +1,12 @@
- <p align="right">© Documentation by tvharikrishna</p>
-<p align="right">1 minute read 📚</p> <br>
-
 <p align="center">
     <img src="readme_data/mp_welcome.png" alt="motion planning welcome image" width="1500"/>
 </p> <br>
+
+<p align="center">
+  <a href="https://www.youtube.com/playlist?list=PL0phN1wjvpsb4Jdhw7SKc1tadzJwySnvD">
+    <img src="https://img.shields.io/badge/Full Projects Playlist-%23FF0000.svg?style=flat-square&logo=youtube&logoColor=white" alt="Full YouTube Playlist" width="220" height="30"/>
+  </a>
+</p> <br> <br>
 
 # 🔻 Repository Details
 <p align='justify'>

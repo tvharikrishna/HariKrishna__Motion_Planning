@@ -1,10 +1,6 @@
-<!------ Copyrights ------>
-<p align="right">© 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗯𝘆 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮</p>
-<p align="right">5 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚 </p> <br>
-
 <!------ PROJECT TITLE ------>
 <p align="center">
-    <img src="readme_data/title.png" alt="title" width="1500"/>
+    <img src="readme_data/project_title.png" alt="title" width="1500"/>
 </p> <br> <br>
 
 <!------ WHAT ------>
@@ -18,8 +14,8 @@ At the core of this project is the implementation of a <strong>Proportional-Inte
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/posts/tvharikrishnahk_autonomousdriving-selfdrivingcars-pidcontroller-activity-7117165597116743680-jC2Q?utm_source=share&utm_medium=member_desktop">
-    <img src="https://img.shields.io/badge/My Project Video-PID Motion Controller-blue" alt="Video" width="337" height="30"/>
+  <a href="https://www.youtube.com/watch?v=gFnzpni89qY">
+    <img src="https://img.shields.io/badge/My Project Video-PID Motion Controller-blue" alt="Video" width="380" height="36"/>
   </a>
 </p> <hr> <br> <br>
 
@@ -56,37 +52,70 @@ This project utilizes a robust set of tools: Ubuntu and Linux for system stabili
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" style="height: 25px;"/> &nbsp;
 </p> <br>
 
-<p align="center"><h2>💠 Working of PID Controllers </h2></p>
+<!------ Technical Terms ------>
+<p align="center"><h2>💠 Project Technical Terms & Concept </h2></p>
+<p align="center"><h3>▸ Working of PID Controllers</h3></p>
 <p align='justify'>
 The PID (Proportional-Integral-Derivative) controller is a control loop feedback mechanism widely used in industrial control systems. It adjusts the output to bring a process to its desired setpoint or target. Here’s a brief explanation of how each component works:
 </p>
 <p align="center">
-  <img src="readme_data/pid_diagram.png" alt="Project Logo Cover" width="900"/>
-</p>
+  <img src="readme_data/pid_diagram.png" alt="Technical Term Images" width="900"/>
+</p> <br>
 
 <h3><strong> ▸ Proportional (P) Term: </strong></h3>
 <p align='justify'>
 This is the reactive part of the controller. It produces an output value that is proportional to the current error value - the difference between the desired setpoint and the current process variable. A higher proportional gain results in a larger output response to the error, which can improve the system's response time but also increase the risk of overshooting the setpoint.
-</p>
+</p> <br>
 
 <h3><strong>  ▸ Integral (I) Term: </strong></h3>
 <p align='justify'>
 This component sums the error over time and integrates it with respect to the past errors. The integral term accelerates the movement of the process towards the setpoint and eliminates the residual steady-state error that occurs with a pure proportional controller. However, too much integral action can lead to instability and oscillations.
-</p>
+</p> <br>
 
 <h3><strong>  ▸ Derivative (D) Term: </strong></h3>
 <p align='justify'>
 The derivative term predicts system behavior and thus can provide a damping effect. It is a measure of how quickly the process variable is changing and effectively slows down the output to prevent overshooting. It can improve stability and settle time.
-</p>
+</p> <br>
 
 <p align='justify'>
 The PID controller works by calculating an 'error value' as the difference between a measured process variable and a desired setpoint. The controller attempts to minimize the error by adjusting the process control inputs. The combination of these three terms provides control action designed to eliminate the error by adjusting process control variables such as the throttle, the steering angle, or the valve position in a system.
 </p> <br>
 
-<p align="center"><h2>💠 Implementation of PID Steering Control </h2></p>
+<p align="center"><h3>▸ Why Do We Need to Tune a PID Controller</h3></p>
+<p align='justify'>
+▸ Tuning a PID controller is an essential step in any control system that employs feedback. Proper tuning ensures that the system responds to setpoint changes and disturbances rapidly and with minimal overshoot. Untuned or poorly tuned PID controllers can lead to inefficient operation, instability, excessive oscillation, or slow response times, all of which can affect the performance and safety of the controlled system. Effective tuning optimizes the control actions of the PID controller, ensuring it works in harmony with the dynamics of the process it is controlling.
+    
+▸ It is a delicate balance: the proportional term must be high enough to respond to changes, the integral term must correct any offset without causing instability, and the derivative term must predict and smooth the response. Without tuning, the controller cannot fulfill its role of maintaining the desired level of process control.
+</p> <br>
 
+<p align="center"><h3>▸ Advantages of PID Controller</h3></p>
+<p align='justify'>
+<ol>
+<li>Precision Engineering: Essential for autonomous systems, PID controllers ensure precise navigation and positioning, reducing errors and enhancing accuracy in unpredictable environments.</li>
+<li>Dynamic Stability: They provide stability in rapidly changing conditions, essential for autonomous vehicles to adapt to sudden obstacles or shifts in terrain, ensuring safe and reliable operation.</li>
+<li>Adaptive Flexibility: With adaptable control parameters, PID controllers can be fine-tuned for various autonomous applications, from urban driving to off-road exploration, offering versatile performance.</li>
+<li>Operational Efficiency: By optimizing system responses, PID controllers contribute to energy-efficient operation of autonomous vehicles, crucial for extending battery life and reducing environmental impact.</li>
+<li>Design Simplicity: Their straightforward implementation makes PID controllers an accessible technology for enhancing the control systems of autonomous vehicles, even with limited engineering resources.</li>
+<li>Universal Application: The wide applicability of PID controllers supports diverse functionalities in autonomous systems, from speed control to obstacle avoidance, proving their essential role in the future of transportation.</li>
+</ol>
+</p> <br>
+
+<p align="left"><h3>▸ PID Tuning Methods</h3></p>
+<p align='left'>
+<ol>
+<li>Manual Tuning</li>
+<li>Trial and Error Tuning</li>
+<li>Ziegler-Nichols Tuning Method</li>
+<li>Cohen-Coon Tuning Method</li>
+<li>Kappa-Tau Tuning Method</li>
+</ol>
+For a deeper understanding and guidance on PID tuning, consider visiting <a href="https://www.incatools.com/pid-tuning/pid-tuning-methods/">PID Tuning Methods</a>. This resource provides insights and practical advice on how to apply these methods to achieve a well-tuned control system.
+</p> <br>
+
+<!------ Deployment and Testing ------>
+<p align="center"><h2>💠 Deployment and Testing </h2></p>
 <p align="center">
-  <img src="readme_data/project_obs_1.png" alt="Project Logo Cover" width="1500"/>
+  <img src="readme_data/project_obs_1.png" alt="Deployment and Testing Images" width="1500"/>
 </p>
 
 <p align='justify'>
@@ -119,45 +148,9 @@ Adjust the robot's throttle or drive commands based on the control output to ali
 
 <h3>10. Steer the Robot</h3>
 Finally, use the computed control inputs to steer the robot along the path. Monitor the robot's progress and continuously adjust the control signals to maintain a smooth and accurate trajectory.
-</p>  <br>
-
-<p align="center"><h2>💠 Why Do We Need to Tune a PID Controller</h2></p>
-<p align='justify'>
-▸ Tuning a PID controller is an essential step in any control system that employs feedback. Proper tuning ensures that the system responds to setpoint changes and disturbances rapidly and with minimal overshoot. Untuned or poorly tuned PID controllers can lead to inefficient operation, instability, excessive oscillation, or slow response times, all of which can affect the performance and safety of the controlled system. Effective tuning optimizes the control actions of the PID controller, ensuring it works in harmony with the dynamics of the process it is controlling.
-    
-▸ It is a delicate balance: the proportional term must be high enough to respond to changes, the integral term must correct any offset without causing instability, and the derivative term must predict and smooth the response. Without tuning, the controller cannot fulfill its role of maintaining the desired level of process control.
-</p>  <br>
-
-<p align="center"><h2>💠 Advantages of PID Controller</h2></p>
-<p align='justify'>
-▸ <code>Precision Engineering:</code> Essential for autonomous systems, PID controllers ensure precise navigation and positioning, reducing errors and enhancing accuracy in unpredictable environments.
-    
-▸ <code>Dynamic Stability:</code> They provide stability in rapidly changing conditions, essential for autonomous vehicles to adapt to sudden obstacles or shifts in terrain, ensuring safe and reliable operation.
-
-▸ <code>Adaptive Flexibility:</code> With adaptable control parameters, PID controllers can be fine-tuned for various autonomous applications, from urban driving to off-road exploration, offering versatile performance.
-
-▸ <code>Operational Efficiency:</code> By optimizing system responses, PID controllers contribute to energy-efficient operation of autonomous vehicles, crucial for extending battery life and reducing environmental impact.
-
-▸ <code>Design Simplicity:</code> Their straightforward implementation makes PID controllers an accessible technology for enhancing the control systems of autonomous vehicles, even with limited engineering resources.
-
-▸ <code>Universal Application:</code> The wide applicability of PID controllers supports diverse functionalities in autonomous systems, from speed control to obstacle avoidance, proving their essential role in the future of transportation.
-</p>  <br>
-
-<p align="center"><h2>💠 PID Tuning Methods</h2></p>
-<p align='justify'>
-▸ Manual Tuning
-    
-▸ Trial and Error Tuning
-
-▸ Ziegler-Nichols Tuning Method
-
-▸ Cohen-Coon Tuning Method
-
-▸ Kappa-Tau Tuning Method
-
-For a deeper understanding and guidance on PID tuning, consider visiting [PID Tuning Methods](https://www.incatools.com/pid-tuning/pid-tuning-methods/). This resource provides insights and practical advice on how to apply these methods to achieve a well-tuned control system. </p> <hr> <br>  <br>
+</p>  <hr> <br> <br>
 
 <!------ End Image ------>
 <p align="center">
-    <img src="readme_data/hk_quote.png" alt="Alt text for your image" width="1500"/>
+    <img src="readme_data/hk_quote.png" alt="endquote" width="1500"/>
 </p>
