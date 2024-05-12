@@ -9,7 +9,7 @@
 
 <h1 align="left">🔻 Repository Details</h1>
 <p align='justify'>
-    This repository comprises a collection of motion planning algorithms, covering both path planning and motion control algorithms. These algorithms are demonstrated across a wide variety of simulators, primarily including 2D grid animations for path planning algorithms and motion control for Nvidia Isaac and Gazebo.
+    This repository includes a variety of motion planning algorithms for path planning and motion control, demonstrated across multiple simulators like Nvidia Isaac and Gazebo, with applications in 2D grid animations and more."
 </p>
 
 <table align="center">
