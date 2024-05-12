@@ -17,7 +17,10 @@
 
 <h1 align="left">⭐ Path Planning Algorithms</h1>
 
-<img src="readme_data/pathplanning_flowchat.png" alt="motion planning welcome image" width="777"/>
+<div align="center">
+    <img src="readme_data/pathplanning_flowchat.png" alt="motion planning welcome image" width="333"/>
+</div>
+
 
 
 
