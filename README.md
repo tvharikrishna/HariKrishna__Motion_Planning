@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="readme_data/welcome_motion_planning.png" alt="motion planning welcome image" width="1500"/>
+    <img src="readme_data/welcome__motion_planning.png" alt="motion planning welcome image" width="1500"/>
     <br><br>
     <a href="https://www.youtube.com/playlist?list=PL0phN1wjvpsb4Jdhw7SKc1tadzJwySnvD">
         <img src="https://img.shields.io/badge/Full Projects Playlist-%23FF0000.svg?style=flat-square&logo=youtube&logoColor=white" alt="Full YouTube Playlist" width="220" height="30"/>
