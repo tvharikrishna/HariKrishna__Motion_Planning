@@ -7,30 +7,6 @@
     <br><hr>
 </div> <br><br> 
 
-<h1 align="left">🔻 Repository Details</h1>
-<p align='justify'>
-    This repository includes a variety of motion planning algorithms for path planning and motion control, demonstrated across multiple simulators like Nvidia Isaac and Gazebo, with applications in 2D grid animations and more.
-</p>
-
-<table align="center">
-    <thead>
-        <tr>
-            <th align="center">Naming Prefix</th>
-            <th align="center">Description</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td align="left"><strong>HKPP__</strong></td>
-            <td align="right">Path Planning Algorithms</td>
-        </tr>
-        <tr>
-            <td align="left"><strong>HKMC__</strong></td>
-            <td align="right">Motion Control Algorithms</td>
-        </tr>
-    </tbody>
-</table>
-
 <br> <br> <br> 
 
 <div align="center">
