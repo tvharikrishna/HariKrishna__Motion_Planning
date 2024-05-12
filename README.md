@@ -6,10 +6,7 @@
     <img src="readme_data/youtube_playlist.png" alt="Full YouTube Playlist" align="right" style="width: 220px;"/>
 </a>
 
-<hr>
-
-
-<br> <br> <br> 
+<hr> <br> <br> <br> <br> <br> 
 
 <div align="center">
     <img src="readme_data/stateoftheart.png" alt="stateoftheart" width="1500"/>
