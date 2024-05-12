@@ -8,33 +8,15 @@
 
 <div align="center">
     <img src="readme_data/stateoftheart.png" alt="stateoftheart" width="1500"/>
-</div> <br>
+</div> <br> <br>
 
 <h1 align="left">⭐ Motion Control Algorithms</h1>
-<table width="100%">
-    <tr>
-        <th align="center">🔻 Linear Control Methods</th>
-        <th align="center">🔻 Non-Linear Control Methods</th>
-    </tr>
-    <tr valign="top">
-        <td align="left">
-            <ul> 
-                 <li>State Feedback Controller</li>
-                <li>PID Controller</li>
-                <li>LQR (Linear Quadratic Regulator)</li>
-                <li>LQG (Linear Quadratic Gaussian)</li>
-            </ul>
-        </td>
-        <td align="left">
-            <ul>
-                <li>Pure Pursuit Controller</li>
-                <li>MPC (Model Predictive Control)</li>
-                <li>Pure Pursuit Controller</li>
-                <li>Stanley Controller</li>
-            </ul>
-        </td>
-    </tr>
-</table>
+<div align="center">
+    <img src="readme_data/controls_list.png" alt="motion planning welcome image" width="777"/>
+</div>
+
+
+
 
 
 
