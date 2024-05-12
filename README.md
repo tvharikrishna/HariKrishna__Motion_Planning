@@ -5,9 +5,9 @@
         <img src="https://img.shields.io/badge/Full Projects Playlist-%23FF0000.svg?style=flat-square&logo=youtube&logoColor=white" alt="Full YouTube Playlist" width="220" height="30"/>
     </a>
     <br><br><br>
-</div>
+</div> <hr> 
 
-<h1 align="center">🔻 Repository Details</h1>
+<h1 align="left">🔻 Repository Details</h1>
 <p align='justify'>
     This repository comprises a collection of motion planning algorithms, covering both path planning and motion control algorithms. These algorithms are demonstrated across a wide variety of simulators, primarily including 2D grid animations for path planning algorithms and motion control for Nvidia Isaac and Gazebo.
 </p>
@@ -39,21 +39,46 @@
 <h1 align="left">🔻 What are Path Planning Algorithms?</h1>
 <p align='justify'>
     ▸ Path planning is the process of determining a path from a starting point to a destination that avoids obstacles and is optimal based on certain criteria, such as the shortest distance, minimum time, or least energy consumption.
-    <br>
+    <br><br>
     ▸ In robotics and autonomous vehicle navigation, path planning is crucial for navigating through an environment efficiently and safely. It involves analyzing the environment, often represented as a graph or a grid, and applying algorithms to find the best route considering the system's limitations and the physical properties of the environment.
 </p>
 
 <h1 align="left">🔻 What are Motion Control Algorithms?</h1>
 <p align='justify'>
     ▸ Motion control algorithms are the set of computational techniques that direct the movement of robots or autonomous vehicles to follow a given path or reach a specified location. These algorithms consider the system's dynamics, including its acceleration, velocity, and the forces acting upon it, to execute movements accurately and efficiently.
-    <br>
+    <br><br>
     ▸ They ensure that the system adheres to the planned path while adjusting for real-time obstacles and changes in the environment. Motion control is fundamental in robotics, ensuring precise and adaptive movements for tasks ranging from simple navigation to complex manipulations.
-</p> <br> <br> <br> <br> <br> <br>
+</p> <hr> <br> <br> <br> 
 
+<div align="center">
+    <img src="readme_data/stateoftheart.png" alt="stateoftheart" width="1500"/>
+</div> <br> <br> <br> 
 
-<img src="readme_data/stateoftheart.png" alt="stateoftheart" width="1500"/>
-
-
+<h1 align="left">⭐ Motion Control Algorithms</h1>
+<table width="100%">
+    <tr>
+        <th align="center">🔻 Linear Control Methods</th>
+        <th align="center">🔻 Non-Linear Control Methods</th>
+    </tr>
+    <tr valign="top">
+        <td align="left">
+            <ul> 
+                 <li>State Feedback Controller</li>
+                <li>PID Controller</li>
+                <li>LQR (Linear Quadratic Regulator)</li>
+                <li>LQG (Linear Quadratic Gaussian)</li>
+            </ul>
+        </td>
+        <td align="left">
+            <ul>
+                <li>Pure Pursuit Controller</li>
+                <li>MPC (Model Predictive Control)</li>
+                <li>Pure Pursuit Controller</li>
+                <li>Stanley Controller</li>
+            </ul>
+        </td>
+    </tr>
+</table>
 
 
 
