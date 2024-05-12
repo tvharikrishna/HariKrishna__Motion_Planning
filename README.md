@@ -4,13 +4,11 @@
 
 <a href="https://www.youtube.com/playlist?list=PL0phN1wjvpsb4Jdhw7SKc1tadzJwySnvD">
     <img src="readme_data/youtube_playlist.png" alt="Full YouTube Playlist" align="right" style="width: 170px;"/>
-</a>
-
-<hr> <br> <br> <br> <br> <br> 
+</a> <hr> <br> <br> <br> <br> <br> 
 
 <div align="center">
     <img src="readme_data/stateoftheart.png" alt="stateoftheart" width="1500"/>
-</div> <br> <br> <br> 
+</div> <br>
 
 <h1 align="left">⭐ Motion Control Algorithms</h1>
 <table width="100%">
