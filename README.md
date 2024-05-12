@@ -16,12 +16,8 @@
 </div> <br>
 
 <h1 align="left">⭐ Path Planning Algorithms</h1>
-<br>
-<br>
-<br>
-<br>
-<br>
 
+<img src="readme_data/pathplanning_flowchat.png" alt="motion planning welcome image" width="777"/>
 
 
 
@@ -39,7 +35,7 @@
 
 
 <div align="center">
-    <img src="readme_data/learn_with_hk.png" alt="motion planning welcome image" width="1500"/>
+    <img src="readme_data/learn_with_hk.png" alt="motion planning welcome image" width="651"/>
 </div>
 
 
