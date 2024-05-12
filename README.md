@@ -4,8 +4,8 @@
     <a href="https://www.youtube.com/playlist?list=PL0phN1wjvpsb4Jdhw7SKc1tadzJwySnvD">
         <img src="https://img.shields.io/badge/Full Projects Playlist-%23FF0000.svg?style=flat-square&logo=youtube&logoColor=white" alt="Full YouTube Playlist" width="220" height="30"/>
     </a>
-    <br><br><br>
-</div>
+    <br><hr>
+</div> <br><br> 
 
 <h1 align="left">🔻 Repository Details</h1>
 <p align='justify'>
