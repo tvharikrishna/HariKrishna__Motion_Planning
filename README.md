@@ -1,35 +1,11 @@
 <div align="center">
-    <img src="readme_data/welcome_motion_planning.png" alt="motion planning welcome image" width="1500"/>
+    <img src="readme_data/welcome__motion_planning.png" alt="motion planning welcome image" width="1500"/>
     <br><br>
     <a href="https://www.youtube.com/playlist?list=PL0phN1wjvpsb4Jdhw7SKc1tadzJwySnvD">
         <img src="https://img.shields.io/badge/Full Projects Playlist-%23FF0000.svg?style=flat-square&logo=youtube&logoColor=white" alt="Full YouTube Playlist" width="220" height="30"/>
     </a>
     <br><hr>
 </div> <br><br> 
-
-<h1 align="left">🔻 Repository Details</h1>
-<p align='justify'>
-    This repository includes a variety of motion planning algorithms for path planning and motion control, demonstrated across multiple simulators like Nvidia Isaac and Gazebo, with applications in 2D grid animations and more.
-</p>
-
-<table align="center">
-    <thead>
-        <tr>
-            <th align="center">Naming Prefix</th>
-            <th align="center">Description</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td align="left"><strong>HKPP__</strong></td>
-            <td align="right">Path Planning Algorithms</td>
-        </tr>
-        <tr>
-            <td align="left"><strong>HKMC__</strong></td>
-            <td align="right">Motion Control Algorithms</td>
-        </tr>
-    </tbody>
-</table>
 
 <br> <br> <br> 
 
