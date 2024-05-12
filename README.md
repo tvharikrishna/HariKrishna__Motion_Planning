@@ -1,11 +1,13 @@
 <div align="center">
     <img src="readme_data/welcome__motion_planning.png" alt="motion planning welcome image" width="1500"/>
-    <br><br>
-    <a href="https://www.youtube.com/playlist?list=PL0phN1wjvpsb4Jdhw7SKc1tadzJwySnvD"> <br> 
-        <img src="readme_data/youtube_playlist.png" alt="Full YouTube Playlist" style="width: 220px;"/>
-    </a>
-    <br><hr>
-</div> <br><br> 
+</div>
+
+<a href="https://www.youtube.com/playlist?list=PL0phN1wjvpsb4Jdhw7SKc1tadzJwySnvD">
+    <img src="readme_data/youtube_playlist.png" alt="Full YouTube Playlist" align="right" style="width: 220px;"/>
+</a>
+
+<hr>
+
 
 <br> <br> <br> 
 
