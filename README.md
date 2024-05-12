@@ -3,7 +3,7 @@
 </div>
 
 <a href="https://www.youtube.com/playlist?list=PL0phN1wjvpsb4Jdhw7SKc1tadzJwySnvD">
-    <img src="readme_data/youtube_playlist.png" alt="Full YouTube Playlist" align="right" style="width: 220px;"/>
+    <img src="readme_data/youtube_playlist.png" alt="Full YouTube Playlist" align="right" style="width: 170px;"/>
 </a>
 
 <hr> <br> <br> <br> <br> <br> 
