@@ -13,25 +13,34 @@
 <h1 align="left">⭐ Motion Control Algorithms</h1>
 <div align="center">
     <img src="readme_data/controls_list.png" alt="motion planning welcome image" width="777"/>
+</div> <br>
+
+<h1 align="left">⭐ Path Planning Algorithms</h1>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+    <img src="readme_data/learn_with_hk.png" alt="motion planning welcome image" width="1500"/>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <h1 align="left">🔻 What is Motion Planning Pipeline?</h1>
