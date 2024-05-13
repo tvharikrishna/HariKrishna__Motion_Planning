@@ -14,6 +14,10 @@
     <img src="readme_data/stateoftheart.png" alt="stateoftheart" width="1500"/>
 </div> <br> <br> <br> <br>
 
+<div align="center">
+    <img src="readme_data/motion_control_algorithms.png" alt="motion planning welcome image" width="1500"/>
+</div>
+
 <h1 align="left">🔻 What is Motion Planning Pipeline?</h1>
 <p align='justify'>
     Motion planning is a key concept in autonomous systems, enabling robots and autonomous vehicles to determine how to achieve a desired state or task in an environment filled with obstacles. It encompasses the stages of path planning and motion control algorithms. Together, these components form the motion planning pipeline, which is critical for the autonomy of robotic systems.
