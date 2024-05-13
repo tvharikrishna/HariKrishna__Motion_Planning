@@ -7,18 +7,12 @@
 </a> <hr> <br> <br> <br> <br> <br> 
 
 <div align="center">
+    <img src="readme_data/motionplanning_illustration.png" alt="motion planning welcome image" width="1500"/>
+</div> <br> <br> <br> <br>
+
+<div align="center">
     <img src="readme_data/stateoftheart.png" alt="stateoftheart" width="1500"/>
-</div> <br> <br>
-
-<h1 align="left">⭐ Motion Control Algorithms</h1>
-<div align="center">
-    <img src="readme_data/controls_list.png" alt="motion planning welcome image" width="777"/>
-</div> <br>
-
-<div align="center">
-    <img src="readme_data/learn_with_hk.png" alt="motion planning welcome image" width="651"/>
-</div>
-
+</div> <br> <br> <br> <br>
 
 <h1 align="left">🔻 What is Motion Planning Pipeline?</h1>
 <p align='justify'>
