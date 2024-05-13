@@ -7,7 +7,7 @@
 </a> <hr> <br> <br> <br> <br> <br> 
 
 <div align="center">
-    <img src="readme_data/learn_with_hk.png" alt="motion planning welcome image" width="40"/>
+    <img src="readme_data/learn_with_hk.png" alt="motion planning welcome image" width="400"/>
 </div> <br> <br>
 
 <div align="center">
