@@ -15,28 +15,6 @@
     <img src="readme_data/controls_list.png" alt="motion planning welcome image" width="777"/>
 </div> <br>
 
-<h1 align="left">⭐ Path Planning Algorithms</h1>
-
-<div align="center">
-    <img src="readme_data/pathplanning_flowchat.png" alt="motion planning welcome image" width="333"/>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div align="center">
     <img src="readme_data/learn_with_hk.png" alt="motion planning welcome image" width="651"/>
 </div>
@@ -59,29 +37,8 @@
     ▸ Motion control algorithms are the set of computational techniques that direct the movement of robots or autonomous vehicles to follow a given path or reach a specified location. These algorithms consider the system's dynamics, including its acceleration, velocity, and the forces acting upon it, to execute movements accurately and efficiently.
     <br><br>
     ▸ They ensure that the system adheres to the planned path while adjusting for real-time obstacles and changes in the environment. Motion control is fundamental in robotics, ensuring precise and adaptive movements for tasks ranging from simple navigation to complex manipulations.
-</p>
+</p> <hr> <br> <br> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br>
-<hr><br><br>
 <div align="center">
     <img src="readme_data/hk_quote.png" alt="Inspiring quote related to computer vision and robotics" width="1500"/>
 </div>
