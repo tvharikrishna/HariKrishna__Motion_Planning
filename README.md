@@ -7,7 +7,7 @@
 </a> <hr> <br> <br> <br> <br> <br> 
 
 <div align="center">
-    <img src="readme_data/mp_1.png" alt="motion planning welcome image" width="900"/>
+    <img src="readme_data/mp_1.png" alt="motion planning welcome image" width="1111"/>
 </div>
 
 
