@@ -7,39 +7,39 @@
 </a> <hr> <br> <br> <br> <br> <br> 
 
 <div align="center">
-    <img src="readme_data/mp_1.png" alt="motion planning welcome image" width="6511"/>
+    <img src="readme_data/mp1.png" alt="motion planning welcome image" width="6511"/>
 </div> <hr>
 
 <div align="center">
-    <img src="readme_data/mp_2.png" alt="motion planning welcome image" width="6511"/>
+    <img src="readme_data/mp2.png" alt="motion planning welcome image" width="6511"/>
 </div> <hr>
 
 <div align="center">
-    <img src="readme_data/mp_3.png" alt="motion planning welcome image" width="6511"/>
+    <img src="readme_data/mp3.png" alt="motion planning welcome image" width="6511"/>
 </div> <hr>
 
 <div align="center">
-    <img src="readme_data/mp_4.png" alt="motion planning welcome image" width="6511"/>
+    <img src="readme_data/mp4.png" alt="motion planning welcome image" width="6511"/>
 </div> <hr>
 
 <div align="center">
-    <img src="readme_data/mp_5.png" alt="motion planning welcome image" width="6511"/>
+    <img src="readme_data/mp5.png" alt="motion planning welcome image" width="6511"/>
 </div> <hr>
 
 <div align="center">
-    <img src="readme_data/mp_6.png" alt="motion planning welcome image" width="6511"/>
+    <img src="readme_data/mp6.png" alt="motion planning welcome image" width="6511"/>
 </div> <hr>
 
 <div align="center">
-    <img src="readme_data/mp_7.png" alt="motion planning welcome image" width="6511"/>
+    <img src="readme_data/mp7.png" alt="motion planning welcome image" width="6511"/>
 </div> <hr>
 
 <div align="center">
-    <img src="readme_data/mp_8.png" alt="motion planning welcome image" width="6511"/>
+    <img src="readme_data/mp8.png" alt="motion planning welcome image" width="6511"/>
 </div> <hr>
 
 <div align="center">
-    <img src="readme_data/mp_9.png" alt="motion planning welcome image" width="6511"/>
+    <img src="readme_data/mp9.png" alt="motion planning welcome image" width="6511"/>
 </div>
 
 <hr> <br> <br> <br>
